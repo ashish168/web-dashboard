@@ -1,3 +1,7 @@
+this is a copied exprerimental project , so you can run by - 
+flutter run -d chrome
+>> as of now data is loaded from mock files , which is good and easy to run flutter
+
 # web_dashboard
 
 **In progress** 
